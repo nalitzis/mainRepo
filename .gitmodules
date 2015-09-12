@@ -1,0 +1,3 @@
+[submodule "Import/Subrepo"]
+	path = Import/Subrepo
+	url = https://github.com/nalitzis/Subrepo.git
